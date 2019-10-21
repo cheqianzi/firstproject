@@ -1,0 +1,6 @@
+package firstproject；
+public class HelloWord{
+    public static void main(String[] argds){
+        System.out.println("hello word");
+    }
+}
